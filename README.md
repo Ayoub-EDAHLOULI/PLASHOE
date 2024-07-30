@@ -45,49 +45,51 @@ PLASHOE is a testament to my ability to design, develop, and deploy a full-fledg
 -----------------------------------------------------------------------------------------------------------------------
 
 # Diagram :
-![Diagram](https://github.com/user-attachments/assets/a4882bef-79e8-4027-8c57-5db35fbdcb96)
+![Diagram](https://github.com/user-attachments/assets/c20687a2-61b2-485d-a694-d5b201977847)
+
 
 
 # Project Pages :
 
 ## Home Page : 
-![Home](https://github.com/user-attachments/assets/8e211d5b-387e-41e2-a238-fc51ecb1c64b)
+![Home](https://github.com/user-attachments/assets/af756061-a3df-4626-872a-f959227ffc39)
 
-## Products or Collection Page :
-![Collection](https://github.com/user-attachments/assets/a5600fac-ce98-42a8-a92f-6b5eb76beca9)
+## Products or Collect :
+![Collection](https://github.com/user-attachments/assets/b5a133a4-413d-4c9b-961c-1b6a2947e367)
+ion Page :
 
 ## About Page :
-![About](https://github.com/user-attachments/assets/e4d47a5d-1cf4-4af3-97bd-9f1941fda5b6)
+![About](https://github.com/user-attachments/assets/cebb553d-1636-414b-8b0f-c48308d38528)
 
 ## Contact Page :
-![Contact](https://github.com/user-attachments/assets/2807d299-89bc-4388-bcd2-c20fc8e8a38a)
+![Contact](https://github.com/user-attachments/assets/377d09e8-d254-46fb-a200-56e2b1412c5a)
 
 ## Sign in :
-![Sign in](https://github.com/user-attachments/assets/127de56c-5ab1-4e89-89f7-531be91f6bcf)
+![Sign in](https://github.com/user-attachments/assets/271859cc-b8ce-47ea-a189-e9ba178e9e0d)
 
 ## Sign up :
-![Sign up](https://github.com/user-attachments/assets/bd1039e0-93c7-44f1-8563-8f8eba461f3a)
+![Sign up](https://github.com/user-attachments/assets/69c34a94-2230-442b-8ee3-cbb59fe9b962)
 
 ## Dashboard :
-![dashboard](https://github.com/user-attachments/assets/c23407c5-e771-4cd6-a63b-60f2bc79b1a2)
+![dashboard](https://github.com/user-attachments/assets/38462d5d-99d2-42ce-8021-495a7fb8a29a)
 
 ## Product CRUD :
-![Products_crud](https://github.com/user-attachments/assets/fff7e4e6-aac9-4b37-8f3e-ea64156766d2)
+![Products_crud](https://github.com/user-attachments/assets/47a1d658-81f1-413b-8611-8f5930cac2ce)
 
 ## Add Product :
-![add_product](https://github.com/user-attachments/assets/2527a5af-7c97-4401-afd6-5a315566fc63)
+![add_product](https://github.com/user-attachments/assets/b60e678d-ebff-4bee-b518-d08afb8e01b6)
 
 ## Categories CRUD :
-![categories_crud](https://github.com/user-attachments/assets/b06759ee-87a6-4f7f-9f23-d61e6daefced)
+![categories_crud](https://github.com/user-attachments/assets/ac49b5f4-4453-4740-8ebc-5958b4aa1c65)
 
 ## Side Cart :
-![sidecart](https://github.com/user-attachments/assets/d5bf0f7d-9c6f-41d3-8e42-17c1f43ffc02)
+![sidecart](https://github.com/user-attachments/assets/cea2e53b-beb8-4f0c-950f-69f82bc365f1)
 
 ## View Cart :
-![cart](https://github.com/user-attachments/assets/7429d963-2f57-457e-88ba-86f646a49856)
+![cart](https://github.com/user-attachments/assets/2cca7cf8-d3c0-4e6f-ba53-cfd792c15cb9)
 
 ## Checkout :
-![checkout](https://github.com/user-attachments/assets/03ac091c-9858-4300-ace4-86db4cd7ec93)
+![checkout](https://github.com/user-attachments/assets/995da583-741c-418c-a252-5b706c4d111d)
 
 
 -----------------------------------------------------------------------------------------------------------------------
