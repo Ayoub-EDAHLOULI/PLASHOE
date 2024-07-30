@@ -1,0 +1,53 @@
+.infinite-text-container {
+  overflow: hidden;
+  min-width: 100%;
+  margin: var(--space-mg);
+  overflow: hidden;
+  border-top: 1px solid rgba(70, 78, 52, 0.2);
+  border-bottom: 1px solid rgba(70, 78, 52, 0.2);
+
+  .infinite-text {
+    display: flex;
+    align-items: center;
+    animation: scroll 80s linear infinite;
+
+    span {
+      font-size: 8rem;
+      font-weight: bold;
+      margin: 0 130px;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      white-space: nowrap;
+    }
+
+    .odd {
+      color: var(--primary-color-light);
+    }
+
+    .even {
+      color: var(--primary-color-dark);
+    }
+
+    @keyframes scroll {
+      0% {
+        transform: translateX(0%);
+      }
+      100% {
+        transform: translateX(-1000%);
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .infinite-text-container {
+    margin: 50px 0 90px 0;
+
+    .infinite-text {
+      span {
+        font-size: 4rem;
+        margin: 0 50px;
+      }
+    }
+  }
+}
